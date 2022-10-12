@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">👋Hello there! I'm Awa Kinason</h1>
-<h3 align="left">I am a Backend Developer with a passion for building solutions to business problems.</h3>
+<h3 align="left">I am a Software Developer with a passion for building solutions to business problems.</h3>
 
 - 🔭 I’m currently working at [Midwest Appliance Parts](https://github.com/midwestappliance)
 - 🌱 I’m currently doing a Fullstack NanoDegree at [Udacity](https://udacity.com)
